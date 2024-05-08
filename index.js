@@ -37,10 +37,10 @@ console.log(result)
 const billTotal = 84;
 
 // Calculate the tip (15% of the bill total)
-
+const tipAmount = 0.15 * billTotal
 
 // Print out the tipAmount
-
+console.log(tipAmount)
 
 
 
